@@ -9,9 +9,10 @@
 
 # Time Desumilde
 ## Soluções Finais
-### Para a competição será usado o `Agente3_def`
+### Para a competição será usado o modleo `Desumilde`
 - Agente3_atk_def : 
 - Agente3_def : (0.56 Win-Rate vs ceia)  
+- Desumilde : (0.61 Win-Rate vs ceia) 
 
 
 
@@ -20,3 +21,4 @@ Para rodar o "Agente3_atk_def" é preciso mudar a linha 56 do arquivo `soccer_tw
 
 - Run `python -m soccer_twos.evaluate -m1 Agente3_atk_def -m2 ceia`
 - Run `python -m soccer_twos.evaluate -m1 Agente3_def -m2 ceia`
+- Run `python -m soccer_twos.evaluate -m1 Desumilde -m2 ceia`
