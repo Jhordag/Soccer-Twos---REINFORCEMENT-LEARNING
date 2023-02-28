@@ -9,7 +9,7 @@
 
 # Time Desumilde
 ## Soluções Finais
-### Para a competição será usado o modleo `Desumilde`
+### Para a competição será usado o modelo `Desumilde`
 - Agente3_atk_def : 
 - Agente3_def : (0.56 Win-Rate vs ceia)  
 - Desumilde : (0.61 Win-Rate vs ceia) 
